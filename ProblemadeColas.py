@@ -10,9 +10,9 @@ numPacientes=100
 #Beneficio por cliente
 benCliente=30
 #Tiempo prom de atencion por paciente
-tiemAten=4
+tiemAten=25
 #tiempo maximo de espera(si cumple este tiempo se va)
-tiempEsp=120
+tiempEsp=60
 #Costo total por sala(costo por un Medico+sala de atencion+enfermero o asistente 
 #+ mantenimiento de los equipos) al dia
 costoSala=300
